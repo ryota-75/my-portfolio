@@ -310,12 +310,13 @@ li {
 .skills-item{
   width:  25%;
   text-align: center;
+  margin:2%;
   
 }
 
 .skills-item img {
   margin-bottom: 40px;
-  width:150px;
+  width:30%;
 }
 
 /*--------------------------------
